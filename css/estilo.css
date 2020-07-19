@@ -302,15 +302,15 @@ body{
         grid-row-start: span 1;
         grid-column-start: span 4;
     }
-    .gallery__item:nth-child(22){
+    .gallery__item:nth-child(26){
         grid-row-start: span 1;
         grid-column-start: span 2;
     }
-    .gallery__item:nth-child(23){
+    .gallery__item:nth-child(27){
         grid-row-start: span 1;
         grid-column-start: span 2;
     }
-    .gallery__item:nth-child(24){
+    .gallery__item:nth-child(28){
         grid-row-start: span 1;
         grid-column-start: span 2;
     }
