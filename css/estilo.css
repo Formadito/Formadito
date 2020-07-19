@@ -271,7 +271,7 @@ body{
     .gallery__item:nth-child(14){
         grid-row-start: span 1;
         grid-column-start: span 4;
-        height: 715px;
+        height: 1430px;
         text-align: center;
     }
     .gallery__item:nth-child(15){
